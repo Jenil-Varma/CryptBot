@@ -12,15 +12,13 @@ import marked from '../../tools/marked';
 
 const left = marked(`
 
-## Gekko
+## CrptoBot
 
-Gekko is a Bitcoin trading bot and backtesting platform that
+CrptoBot is a Bitcoin trading bot and backtesting platform that
 connects to popular Bitcoin exchanges. It is written in javascript
 and runs on nodejs.
 
-[Find out more](https://gekko.wizb.it/).
-
-*Gekko is 100% free (open source), if you paid for this you have been scammed.*
+*CrptoBot is 100% free (open source), so use it and tell us about it.*
 
 `);
 
