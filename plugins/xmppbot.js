@@ -176,7 +176,6 @@ Actor.prototype.emitRealAdvice = function(receiver) {
     'I don\'t throw darts at a board. I bet on sure things. Read Sun-tzu, The Art of War. Every battle is won before it is ever fought.',
     'Ever wonder why fund managers can\'t beat the S&P 500? \'Cause they\'re sheep, and sheep get slaughtered.',
     'If you\'re not inside, you\'re outside!',
-    'The most valuable commodity I know of is information.',
     'It\'s not a question of enough, pal. It\'s a zero sum game, somebody wins, somebody loses. Money itself isn\'t lost or made, it\'s simply transferred from one perception to another.',
     'What\'s worth doing is worth doing for money. (Wait, wasn\'t I a free and open source bot?)',
     'When I get a hold of the son of a bitch who leaked this, I\'m gonna tear his eyeballs out and I\'m gonna suck his fucking skull.'

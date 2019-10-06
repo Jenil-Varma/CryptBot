@@ -2,8 +2,8 @@
   footer.p2.bg--off-white
     .contain
       p
-        em Use Gekko at your own risk.
-      p Using Gekko v{{ version.gekko }} and Gekko UI v{{ version.ui }}.
+        em Use CryptBot at your own risk.
+      p Using CryptBot v{{ version.gekko }} and CryptBot UI v{{ version.ui }}.
 </template>
 
 <script>

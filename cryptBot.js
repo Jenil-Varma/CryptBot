@@ -1,6 +1,6 @@
 /*
 
-  CryptoBot is a Bitcoin trading bot for popular Bitcoin exchanges written 
+  CryptBot is a Bitcoin trading bot for popular Bitcoin exchanges written 
   in node, it features multiple trading methods using technical analysis.
 
   Disclaimer:
@@ -17,12 +17,12 @@
 
 console.log(`
 Welcome To World Of Automation Tranding............
-CryptoBot is setting up..................
+CryptBot is setting up..................
 `);
 
 const util = require(__dirname + '/core/util');
 
-console.log('\tCryptoBot v' + util.getVersion());
+console.log('\tCryptBot v' + util.getVersion());
 console.log('\tWe\'re gonna make you rich, Bud Fox.', '\n\n');
 
 const dirs = util.dirs();
@@ -38,9 +38,9 @@ const mode = util.gekkoMode();
 if(
   config.trader &&
   config.trader.enabled &&
-  !config['I understand that CryptoBot only automates MY OWN trading strategies']
+  !config['I understand that CryptBot only automates MY OWN trading strategies']
 )
-  util.die('Do you understand what CryptoBot will do with your money?');
+  util.die('Do you understand what CryptBot will do with your money?');
 
 // > Ever wonder why fund managers can't beat the S&P 500?
 // > 'Cause they're sheep, and sheep get slaughtered.
